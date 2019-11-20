@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="06" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="252.285px" height="252.285px" viewBox="0 0 252.285 252.285" enable-background="new 0 0 252.285 252.285"
+	 xml:space="preserve">
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="214.014" cy="38.268" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="38.268" cy="38.268" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="38.268" cy="214.014" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="214.014" cy="214.014" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="21.26" cy="21.26" r="8.504"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="21.26" cy="231.021" r="8.504"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="231.021" cy="21.26" r="8.504"/>
+<path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" d="M239.527,231.021
+	c0,4.699-3.807,8.504-8.506,8.504c-4.693,0-8.502-3.805-8.502-8.504c0-4.697,3.809-8.504,8.502-8.504
+	C235.721,222.518,239.527,226.324,239.527,231.021z"/>
+<path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" d="M248.031,203.725
+	l-0.002-155.166c0-4.676,1.047-13.123,2.326-14.322c0,0,1.926-4.82,1.926-12.977c0-11.74-9.518-21.26-21.26-21.26
+	c-8.154,0-12.977,1.926-12.977,1.926c-1.199,1.279-9.646,2.326-14.322,2.326h-1.047v34.016c0,6.236,5.102,11.339,11.338,11.339
+	h9.922c3.119,0,5.67,2.552,5.67,5.669v141.729c0,3.119-2.551,5.67-5.67,5.67h-9.922c-6.236,0-11.338,5.103-11.338,11.339v9.922
+	c0,3.119-2.551,5.67-5.67,5.67H55.275c-3.117,0-5.67-2.551-5.67-5.67v-9.922c0-6.236-5.102-11.339-11.338-11.339h-9.92
+	c-3.119,0-5.67-2.551-5.67-5.67V55.275c0-3.119,2.551-5.67,5.67-5.67h9.92c6.236,0,11.338-5.103,11.338-11.338V4.252h-1.047
+	c-4.677,0-13.123-1.047-14.322-2.326c0,0-4.821-1.926-12.977-1.926C9.519,0,0,9.52,0,21.26c0,8.156,1.916,13.236,1.926,12.977
+	c1.288,0.939,2.324,9.646,2.324,14.322v155.166c0,4.676-1.046,13.121-2.324,14.321c0,0-1.926,4.822-1.926,12.978
+	c0,11.742,9.519,21.261,21.26,21.261c8.156,0,12.977-1.927,12.977-1.927c1.199-1.278,9.646-2.325,14.322-2.325h155.164
+	c4.676,0,13.123,1.047,14.321,2.325c0,0,4.822,1.927,12.978,1.927c11.742,0,21.261-9.519,21.261-21.261
+	c0-8.153-1.927-12.978-1.927-12.978C249.076,216.846,248.031,208.4,248.031,203.725z"/>
+</svg>

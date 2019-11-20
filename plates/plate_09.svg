@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="09" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="252.285px" height="252.285px" viewBox="0 0 252.285 252.285" enable-background="new 0 0 252.285 252.285"
+	 xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" d="M252.291,218.046
+	c0,0,0.002-9.646,0.002-14.321L252.291,48.56c0-4.677,0-14.323,0-14.323s0-4.82,0-12.977C252.291,9.52,242.772,0,231.03,0
+	c-8.153,0-12.977,0-12.977,0s-9.646,0.001-14.322,0.001L48.567,0C43.89,0,34.243,0,34.243,0s-4.82,0-12.977,0
+	C9.526,0,0.007,9.52,0.007,21.26c0,8.156-0.016,13.393,0,12.977c0.016-0.416,0,9.646,0,14.323v155.165c0,4.676,0,14.321,0,14.321
+	s0,4.822,0,12.978c0,11.742,9.52,21.261,21.26,21.261c8.156,0,12.977,0,12.977,0s9.646,0,14.324,0h155.164
+	c4.676,0,14.322,0,14.322,0s4.822,0,12.977,0c11.742,0,21.26-9.519,21.26-21.261C252.291,222.869,252.291,218.046,252.291,218.046z"
+	/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="21.267" cy="21.26" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="21.267" cy="231.023" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="231.03" cy="21.26" r="4.252"/>
+<circle fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" cx="231.03" cy="231.023" r="4.252"/>
+</svg>
