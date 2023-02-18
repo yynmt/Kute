@@ -1,3 +1,11 @@
+# Kute2 - クテ・改
+
+![Kute](/images/main_image.jpg)
+
+- [ビルドガイド](/docs/kute2/buildguide_jp.md)
+
+-----
+
 # Kute - クテ
 
 ![Kute](/images/main_image.jpg)
