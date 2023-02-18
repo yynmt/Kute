@@ -245,17 +245,16 @@ DMM.makeやJLCPCBなどの3Dプリントサービスを利用することで3D�
 初期状態で書き込まれているファームウェアは動作確認用のテストファームウェアのため、各スイッチの動作を変更するためにはファームウェアを書き換える必要があります。
 使用したいファームウェアファイル(`*.uf2`)をダウンロードしてご利用ください。
 
-#### Remap対応ファームウェア
+#### Remap対応ファームウェア [kute2_remap.uf2](../../uf2/kute2_remap.uf2)
 　[Remap](https://remap-keys.app/)に対応したファームウェアです。
 Chromeから[Remap](https://remap-keys.app/)のサイトにアクセスすることで各スイッチの動作をChrome上で自由に書き換えることができます。
 
-- [kute2_remap.uf2]()
-- [Remap](https://remap-keys.app/)
-
-#### テストファームウェア
+#### テストファームウェア [kute2_test.uf2](../../uf2/kute2_test.uf2)
 　初期状態で書き込まれている動作確認用のファームウェアです。
 
-- [kute2_test.uf2]()
+　もしご自身でビルドを行いたい場合は、以下のリポジトリのブランチをご利用ください。
+
+ - [yynmt/qmk_firmware at kute2](https://github.com/yynmt/qmk_firmware/tree/kute2)
 
 ---
 
@@ -281,4 +280,4 @@ USBドライブにファームウェアファイル(`*.uf2`)をコピーしま�
 
 ---
 
-　本ビルドガイドは[Acperience70](http://yynmt.com/kb/a70.html)で書かれました。
+本ビルドガイドは[Acperience70](http://yynmt.com/kb/a70.html)で書かれました。
